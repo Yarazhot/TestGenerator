@@ -1,0 +1,254 @@
+C:\University\SPP\TestGenerator\Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\University\SPP\TestGenerator\Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\University\SPP\TestGenerator\Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\University\SPP\TestGenerator\Tests\bin\Debug\netcoreapp3.1\Tests.deps.json
+C:\University\SPP\TestGenerator\Tests\bin\Debug\netcoreapp3.1\Tests.runtimeconfig.json
+C:\University\SPP\TestGenerator\Tests\bin\Debug\netcoreapp3.1\Tests.runtimeconfig.dev.json
+C:\University\SPP\TestGenerator\Tests\bin\Debug\netcoreapp3.1\Tests.dll
+C:\University\SPP\TestGenerator\Tests\bin\Debug\netcoreapp3.1\Tests.pdb
+C:\University\SPP\TestGenerator\Tests\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\University\SPP\TestGenerator\Tests\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\University\SPP\TestGenerator\Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\University\SPP\TestGenerator\Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CoreUtilities.dll
+C:\University\SPP\TestGenerator\Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\University\SPP\TestGenerator\Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\University\SPP\TestGenerator\Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\University\SPP\TestGenerator\Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\University\SPP\TestGenerator\Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.Utilities.dll
+C:\University\SPP\TestGenerator\Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\University\SPP\TestGenerator\Tests\bin\Debug\netcoreapp3.1\testhost.dll
+C:\University\SPP\TestGenerator\Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\University\SPP\TestGenerator\Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\University\SPP\TestGenerator\Tests\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\University\SPP\TestGenerator\Tests\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\University\SPP\TestGenerator\Tests\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\University\SPP\TestGenerator\Tests\bin\Debug\netcoreapp3.1\System.Reflection.Metadata.dll
+C:\University\SPP\TestGenerator\Tests\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\University\SPP\TestGenerator\Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\University\SPP\TestGenerator\Tests\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\University\SPP\TestGenerator\Tests\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\University\SPP\TestGenerator\Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\University\SPP\TestGenerator\Tests\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\University\SPP\TestGenerator\Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\University\SPP\TestGenerator\Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\University\SPP\TestGenerator\Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\University\SPP\TestGenerator\Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\University\SPP\TestGenerator\Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\University\SPP\TestGenerator\Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\University\SPP\TestGenerator\Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\University\SPP\TestGenerator\Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\University\SPP\TestGenerator\Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\University\SPP\TestGenerator\Tests\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\University\SPP\TestGenerator\Tests\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\University\SPP\TestGenerator\Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\University\SPP\TestGenerator\Tests\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\University\SPP\TestGenerator\Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\University\SPP\TestGenerator\Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\University\SPP\TestGenerator\Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\University\SPP\TestGenerator\Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\University\SPP\TestGenerator\Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\University\SPP\TestGenerator\Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\University\SPP\TestGenerator\Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\University\SPP\TestGenerator\Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\University\SPP\TestGenerator\Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\University\SPP\TestGenerator\Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\University\SPP\TestGenerator\Tests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\University\SPP\TestGenerator\Tests\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\University\SPP\TestGenerator\Tests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\University\SPP\TestGenerator\Tests\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\University\SPP\TestGenerator\Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\University\SPP\TestGenerator\Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\University\SPP\TestGenerator\Tests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\University\SPP\TestGenerator\Tests\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\University\SPP\TestGenerator\Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\University\SPP\TestGenerator\Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\University\SPP\TestGenerator\Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\University\SPP\TestGenerator\Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\University\SPP\TestGenerator\Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\University\SPP\TestGenerator\Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\University\SPP\TestGenerator\Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\University\SPP\TestGenerator\Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\University\SPP\TestGenerator\Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\University\SPP\TestGenerator\Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\University\SPP\TestGenerator\Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\University\SPP\TestGenerator\Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\University\SPP\TestGenerator\Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\University\SPP\TestGenerator\Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\University\SPP\TestGenerator\Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\University\SPP\TestGenerator\Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\University\SPP\TestGenerator\Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\University\SPP\TestGenerator\Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\University\SPP\TestGenerator\Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\University\SPP\TestGenerator\Tests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\University\SPP\TestGenerator\Tests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\University\SPP\TestGenerator\Tests\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\University\SPP\TestGenerator\Tests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\University\SPP\TestGenerator\Tests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\University\SPP\TestGenerator\Tests\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\University\SPP\TestGenerator\Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\University\SPP\TestGenerator\Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\University\SPP\TestGenerator\Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\University\SPP\TestGenerator\Tests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\University\SPP\TestGenerator\Tests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\University\SPP\TestGenerator\Tests\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\University\SPP\TestGenerator\Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\University\SPP\TestGenerator\Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\University\SPP\TestGenerator\Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\University\SPP\TestGenerator\Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\University\SPP\TestGenerator\Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\University\SPP\TestGenerator\Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\University\SPP\TestGenerator\Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\University\SPP\TestGenerator\Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\University\SPP\TestGenerator\Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\University\SPP\TestGenerator\Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\University\SPP\TestGenerator\Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\University\SPP\TestGenerator\Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\University\SPP\TestGenerator\Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\University\SPP\TestGenerator\Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\University\SPP\TestGenerator\Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\University\SPP\TestGenerator\Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\University\SPP\TestGenerator\Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\University\SPP\TestGenerator\Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\University\SPP\TestGenerator\Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\University\SPP\TestGenerator\Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\University\SPP\TestGenerator\Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\University\SPP\TestGenerator\Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\University\SPP\TestGenerator\Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\University\SPP\TestGenerator\Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\University\SPP\TestGenerator\Tests\bin\Debug\netcoreapp3.1\Lib.dll
+C:\University\SPP\TestGenerator\Tests\bin\Debug\netcoreapp3.1\Lib.pdb
+C:\University\SPP\TestGenerator\Tests\obj\Debug\netcoreapp3.1\Tests.csprojAssemblyReference.cache
+C:\University\SPP\TestGenerator\Tests\obj\Debug\netcoreapp3.1\Tests.AssemblyInfoInputs.cache
+C:\University\SPP\TestGenerator\Tests\obj\Debug\netcoreapp3.1\Tests.AssemblyInfo.cs
+C:\University\SPP\TestGenerator\Tests\obj\Debug\netcoreapp3.1\Tests.csproj.CoreCompileInputs.cache
+C:\University\SPP\TestGenerator\Tests\obj\Debug\netcoreapp3.1\Tests.csproj.CopyComplete
+C:\University\SPP\TestGenerator\Tests\obj\Debug\netcoreapp3.1\Tests.dll
+C:\University\SPP\TestGenerator\Tests\obj\Debug\netcoreapp3.1\Tests.pdb
+C:\University\SPP\TestGenerator\Tests\obj\Debug\netcoreapp3.1\Tests.genruntimeconfig.cache
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Tests\bin\Debug\netcoreapp3.1\Tests.deps.json
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Tests\bin\Debug\netcoreapp3.1\Tests.runtimeconfig.json
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Tests\bin\Debug\netcoreapp3.1\Tests.runtimeconfig.dev.json
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Tests\bin\Debug\netcoreapp3.1\Tests.dll
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Tests\bin\Debug\netcoreapp3.1\Tests.pdb
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Tests\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Tests\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CoreUtilities.dll
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.Utilities.dll
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Tests\bin\Debug\netcoreapp3.1\testhost.dll
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Tests\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Tests\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Tests\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Tests\bin\Debug\netcoreapp3.1\System.Reflection.Metadata.dll
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Tests\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Tests\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Tests\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Tests\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Tests\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Tests\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Tests\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Tests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Tests\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Tests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Tests\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Tests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Tests\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Tests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Tests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Tests\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Tests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Tests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Tests\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Tests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Tests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Tests\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Tests\bin\Debug\netcoreapp3.1\Lib.dll
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Tests\bin\Debug\netcoreapp3.1\Lib.pdb
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Tests\obj\Debug\netcoreapp3.1\Tests.csprojAssemblyReference.cache
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Tests\obj\Debug\netcoreapp3.1\Tests.AssemblyInfoInputs.cache
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Tests\obj\Debug\netcoreapp3.1\Tests.AssemblyInfo.cs
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Tests\obj\Debug\netcoreapp3.1\Tests.csproj.CopyComplete
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Tests\obj\Debug\netcoreapp3.1\Tests.dll
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Tests\obj\Debug\netcoreapp3.1\Tests.pdb
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Tests\obj\Debug\netcoreapp3.1\Tests.genruntimeconfig.cache
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Tests\obj\Debug\netcoreapp3.1\Tests.csproj.CoreCompileInputs.cache
