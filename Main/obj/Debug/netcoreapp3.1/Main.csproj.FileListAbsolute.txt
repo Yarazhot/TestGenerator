@@ -1,0 +1,141 @@
+C:\University\SPP\TestGenerator\Main\bin\Debug\netcoreapp3.1\Main.exe
+C:\University\SPP\TestGenerator\Main\bin\Debug\netcoreapp3.1\Main.deps.json
+C:\University\SPP\TestGenerator\Main\bin\Debug\netcoreapp3.1\Main.runtimeconfig.json
+C:\University\SPP\TestGenerator\Main\bin\Debug\netcoreapp3.1\Main.runtimeconfig.dev.json
+C:\University\SPP\TestGenerator\Main\bin\Debug\netcoreapp3.1\Main.dll
+C:\University\SPP\TestGenerator\Main\bin\Debug\netcoreapp3.1\Main.pdb
+C:\University\SPP\TestGenerator\Main\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\University\SPP\TestGenerator\Main\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\University\SPP\TestGenerator\Main\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\University\SPP\TestGenerator\Main\bin\Debug\netcoreapp3.1\System.Reflection.Metadata.dll
+C:\University\SPP\TestGenerator\Main\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\University\SPP\TestGenerator\Main\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\University\SPP\TestGenerator\Main\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\University\SPP\TestGenerator\Main\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\University\SPP\TestGenerator\Main\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\University\SPP\TestGenerator\Main\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\University\SPP\TestGenerator\Main\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\University\SPP\TestGenerator\Main\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\University\SPP\TestGenerator\Main\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\University\SPP\TestGenerator\Main\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\University\SPP\TestGenerator\Main\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\University\SPP\TestGenerator\Main\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\University\SPP\TestGenerator\Main\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\University\SPP\TestGenerator\Main\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\University\SPP\TestGenerator\Main\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\University\SPP\TestGenerator\Main\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\University\SPP\TestGenerator\Main\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\University\SPP\TestGenerator\Main\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\University\SPP\TestGenerator\Main\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\University\SPP\TestGenerator\Main\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\University\SPP\TestGenerator\Main\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\University\SPP\TestGenerator\Main\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\University\SPP\TestGenerator\Main\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\University\SPP\TestGenerator\Main\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\University\SPP\TestGenerator\Main\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\University\SPP\TestGenerator\Main\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\University\SPP\TestGenerator\Main\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\University\SPP\TestGenerator\Main\bin\Debug\netcoreapp3.1\Lib.dll
+C:\University\SPP\TestGenerator\Main\bin\Debug\netcoreapp3.1\Lib.pdb
+C:\University\SPP\TestGenerator\Main\obj\Debug\netcoreapp3.1\Main.csprojAssemblyReference.cache
+C:\University\SPP\TestGenerator\Main\obj\Debug\netcoreapp3.1\Main.AssemblyInfoInputs.cache
+C:\University\SPP\TestGenerator\Main\obj\Debug\netcoreapp3.1\Main.AssemblyInfo.cs
+C:\University\SPP\TestGenerator\Main\obj\Debug\netcoreapp3.1\Main.csproj.CoreCompileInputs.cache
+C:\University\SPP\TestGenerator\Main\obj\Debug\netcoreapp3.1\Main.csproj.CopyComplete
+C:\University\SPP\TestGenerator\Main\obj\Debug\netcoreapp3.1\Main.dll
+C:\University\SPP\TestGenerator\Main\obj\Debug\netcoreapp3.1\Main.pdb
+C:\University\SPP\TestGenerator\Main\obj\Debug\netcoreapp3.1\Main.genruntimeconfig.cache
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Main\bin\Debug\netcoreapp3.1\Main.exe
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Main\bin\Debug\netcoreapp3.1\Main.deps.json
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Main\bin\Debug\netcoreapp3.1\Main.runtimeconfig.json
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Main\bin\Debug\netcoreapp3.1\Main.runtimeconfig.dev.json
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Main\bin\Debug\netcoreapp3.1\Main.dll
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Main\bin\Debug\netcoreapp3.1\Main.pdb
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Main\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Main\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Main\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Main\bin\Debug\netcoreapp3.1\System.Reflection.Metadata.dll
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Main\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Main\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Main\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Main\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Main\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Main\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Main\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Main\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Main\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Main\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Main\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Main\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Main\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Main\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Main\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Main\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Main\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Main\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Main\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Main\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Main\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Main\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Main\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Main\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Main\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Main\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Main\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Main\bin\Debug\netcoreapp3.1\Lib.dll
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Main\bin\Debug\netcoreapp3.1\Lib.pdb
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Main\obj\Debug\netcoreapp3.1\Main.csprojAssemblyReference.cache
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Main\obj\Debug\netcoreapp3.1\Main.AssemblyInfoInputs.cache
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Main\obj\Debug\netcoreapp3.1\Main.AssemblyInfo.cs
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Main\obj\Debug\netcoreapp3.1\Main.csproj.CoreCompileInputs.cache
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Main\obj\Debug\netcoreapp3.1\Main.csproj.CopyComplete
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Main\obj\Debug\netcoreapp3.1\Main.dll
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Main\obj\Debug\netcoreapp3.1\Main.pdb
+D:\Learning\3 курс\СПП\Laba4\TestGenerator\TestGenerator\Main\obj\Debug\netcoreapp3.1\Main.genruntimeconfig.cache
+c:\Users\Dell\source\repos\TestGenerator\Main\bin\Debug\netcoreapp3.1\Main.exe
+c:\Users\Dell\source\repos\TestGenerator\Main\bin\Debug\netcoreapp3.1\Main.deps.json
+c:\Users\Dell\source\repos\TestGenerator\Main\bin\Debug\netcoreapp3.1\Main.runtimeconfig.json
+c:\Users\Dell\source\repos\TestGenerator\Main\bin\Debug\netcoreapp3.1\Main.runtimeconfig.dev.json
+c:\Users\Dell\source\repos\TestGenerator\Main\bin\Debug\netcoreapp3.1\Main.dll
+c:\Users\Dell\source\repos\TestGenerator\Main\bin\Debug\netcoreapp3.1\Main.pdb
+c:\Users\Dell\source\repos\TestGenerator\Main\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+c:\Users\Dell\source\repos\TestGenerator\Main\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+c:\Users\Dell\source\repos\TestGenerator\Main\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+c:\Users\Dell\source\repos\TestGenerator\Main\bin\Debug\netcoreapp3.1\System.Reflection.Metadata.dll
+c:\Users\Dell\source\repos\TestGenerator\Main\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+c:\Users\Dell\source\repos\TestGenerator\Main\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+c:\Users\Dell\source\repos\TestGenerator\Main\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+c:\Users\Dell\source\repos\TestGenerator\Main\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+c:\Users\Dell\source\repos\TestGenerator\Main\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+c:\Users\Dell\source\repos\TestGenerator\Main\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+c:\Users\Dell\source\repos\TestGenerator\Main\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+c:\Users\Dell\source\repos\TestGenerator\Main\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+c:\Users\Dell\source\repos\TestGenerator\Main\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+c:\Users\Dell\source\repos\TestGenerator\Main\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+c:\Users\Dell\source\repos\TestGenerator\Main\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+c:\Users\Dell\source\repos\TestGenerator\Main\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+c:\Users\Dell\source\repos\TestGenerator\Main\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+c:\Users\Dell\source\repos\TestGenerator\Main\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+c:\Users\Dell\source\repos\TestGenerator\Main\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\Dell\source\repos\TestGenerator\Main\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\Dell\source\repos\TestGenerator\Main\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\Dell\source\repos\TestGenerator\Main\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\Dell\source\repos\TestGenerator\Main\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\Dell\source\repos\TestGenerator\Main\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\Dell\source\repos\TestGenerator\Main\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\Dell\source\repos\TestGenerator\Main\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\Dell\source\repos\TestGenerator\Main\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\Dell\source\repos\TestGenerator\Main\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\Dell\source\repos\TestGenerator\Main\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\Dell\source\repos\TestGenerator\Main\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\Dell\source\repos\TestGenerator\Main\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\Dell\source\repos\TestGenerator\Main\bin\Debug\netcoreapp3.1\Lib.dll
+c:\Users\Dell\source\repos\TestGenerator\Main\bin\Debug\netcoreapp3.1\Lib.pdb
+c:\Users\Dell\source\repos\TestGenerator\Main\obj\Debug\netcoreapp3.1\Main.csprojAssemblyReference.cache
+c:\Users\Dell\source\repos\TestGenerator\Main\obj\Debug\netcoreapp3.1\Main.AssemblyInfoInputs.cache
+c:\Users\Dell\source\repos\TestGenerator\Main\obj\Debug\netcoreapp3.1\Main.AssemblyInfo.cs
+c:\Users\Dell\source\repos\TestGenerator\Main\obj\Debug\netcoreapp3.1\Main.csproj.CoreCompileInputs.cache
+c:\Users\Dell\source\repos\TestGenerator\Main\obj\Debug\netcoreapp3.1\Main.csproj.CopyComplete
+c:\Users\Dell\source\repos\TestGenerator\Main\obj\Debug\netcoreapp3.1\Main.dll
+c:\Users\Dell\source\repos\TestGenerator\Main\obj\Debug\netcoreapp3.1\Main.pdb
+c:\Users\Dell\source\repos\TestGenerator\Main\obj\Debug\netcoreapp3.1\Main.genruntimeconfig.cache
